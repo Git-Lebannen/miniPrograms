@@ -1,0 +1,4 @@
+- minesweeper
+- bug 01
+- colors
+- database

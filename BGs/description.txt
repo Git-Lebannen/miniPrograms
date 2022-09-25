@@ -1,0 +1,8 @@
+running BGs.py opens a Terminal window displaying three options:
+- register user
+- login
+- play
+
+BGs.py supports a userbase, keeping track of completed games and levels
+
+starting the play menu through -play, -login or -register and a following login, the user is presented with a list of games and a search query to search for game genres or names. Choosing a game starts that game. 
